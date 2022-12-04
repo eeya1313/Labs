@@ -222,6 +222,3 @@ void release_memory(const struct MEMORY_BLOCK freed_block, struct MEMORY_BLOCK m
 		memory_map[--(*map_cnt)] = (MEMORY_BLOCK){0};
 	}
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
